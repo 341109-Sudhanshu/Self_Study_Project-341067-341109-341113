@@ -14,6 +14,9 @@ This project analyzes over 1,200 vehicle variants in the Indian automotive marke
 * **Database:** MongoDB Atlas (NoSQL Cloud Database)
 * **Visualization:** MongoDB Charts (Interactive Dashboard)
 
+## Dataset Used
+* **Indian Car Market Dataset 🚗:** https://www.kaggle.com/datasets/ak0212/indian-car-market-dataset
+
 ## Dashboard Preview Link
 https://charts.mongodb.com/charts-project-0-ufvudvq/public/dashboards/6926e565-73b2-4e95-8163-4ef3676c071d
 
