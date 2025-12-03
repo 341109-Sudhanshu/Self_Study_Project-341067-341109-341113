@@ -1,7 +1,13 @@
 # Indian Automotive Market Analysis (Self-Study Project for DBMS class for ETB subject)
 
+## Group Members
+1. Sudhanshu Singh (341109)
+2. Arjun M Nair (341067)
+3. Utkarsh Maheshwari (341113)
+
 ## Project Overview
 This project analyzes over 1,200 vehicle variants in the Indian automotive market to derive insights on pricing strategies, consumer preferences, and technological trends. The analysis was conducted using **MongoDB Atlas** for cloud storage and **MongoDB Charts** for visualization.
+Done under the guidance of Prof. Ashok Harnal of FORE School of Management, New Delhi
 
 ## Key Business Insights
 1.  **Market Dominance:** Maruti Suzuki, Hundai, Mahindra and Tata Motors lead the market in terms of product variety, focusing heavily on the budget segment.
