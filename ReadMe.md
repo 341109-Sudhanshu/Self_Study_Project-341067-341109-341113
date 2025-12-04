@@ -16,7 +16,7 @@ Done under the guidance of Prof. Ashok Harnal of FORE School of Management, New 
 4.  **Fuel Trends:** While Petrol is ubiquitous, Diesel remains strong in the SUV/Utility segment despite regulatory pressure.
 
 ## Tools Used
-* **Data Cleaning:** Microsoft Excel
+* **Data Cleaning:** Microsoft Excel, Python
 * **Database:** MongoDB Atlas (NoSQL Cloud Database)
 * **Visualization:** MongoDB Charts (Interactive Dashboard)
 
