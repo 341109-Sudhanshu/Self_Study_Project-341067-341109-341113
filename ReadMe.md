@@ -1,6 +1,6 @@
 # Indian Automotive Market Analysis (Self-Study Project for DBMS class for ETB subject)
 
-## Group Members
+## Group Members (of Section B, PGDM-34)
 1. Sudhanshu Singh (341109)
 2. Arjun M Nair (341067)
 3. Utkarsh Maheshwari (341113)
@@ -24,8 +24,7 @@ Done under the guidance of Prof. Ashok Harnal of FORE School of Management, New 
 * **Indian Car Market Dataset 🚗:** https://www.kaggle.com/datasets/ak0212/indian-car-market-dataset
 
 ## Dashboard Preview Link
-https://charts.mongodb.com/charts-project-0-ufvudvq/public/dashboards/6926e565-73b2-4e95-8163-4ef3676c071d
-
+https://charts.mongodb.com/charts-project-0-ufvudvq/public/dashboards/f52fe35c-9588-4deb-980b-62d89001aa1f
 
 ## Dashboard Overview
 A pdf file is attached in the repository for the same.
@@ -36,11 +35,5 @@ The dataset used (`cars_ds_cleaned_ready_for_dashboard.csv`) includes cleaned da
 * Engine Displacement (cc)
 * ARAI Mileage
 * Body Type & Seating Capacity
-
-
-## Group Members (of Section B, PGDM-34)
-* 341067 - Arjun M Nair
-* 341109 - Sudhanshu Singh
-* 341113 - Utkarsh Maheshwari
 
 
