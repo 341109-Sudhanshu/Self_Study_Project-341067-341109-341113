@@ -1,4 +1,6 @@
-# Indian Automotive Market Analysis (Self-Study Project for DBMS class for ETB subject)
+# Indian Automotive Market Analysis 
+
+##(Self-Study Project for DBMS class for ETB subject)
 
 ## Group Members (of Section B, PGDM-34)
 1. Sudhanshu Singh (341109)
